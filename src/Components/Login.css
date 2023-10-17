@@ -1,0 +1,38 @@
+.main{
+    background-color: #307D7E;
+    
+}
+.box{
+    background-color: #2B3856;
+    box-shadow: 20px 10px 15px -6px rgb(53, 50, 50);
+ 
+}
+.sign{
+    display: flex;
+    background-color: #93FFE8;
+    margin-bottom: 27%;
+    width: 16%;
+    height: 60px;
+    justify-content: center;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    color: gray;
+   
+    
+    
+}
+
+.bt{
+    background-color: #93FFE8;
+    color: gray;
+    font-size: 18px;
+}
+.input{
+    opacity: 25%;
+    
+}

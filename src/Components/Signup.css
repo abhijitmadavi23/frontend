@@ -1,0 +1,24 @@
+.reg{
+    display: flex;
+    background-color: #93FFE8;
+    margin-bottom: 35%;
+    width: 19%;
+    height: 60px;
+    justify-content: center;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+}
+.book{
+    display: flex;
+    justify-content: center;
+     color: gray;
+}
+.rgbt{
+    background-color: #93FFE8;
+    width: 100%;
+    color: gray;
+}
+.sig-main{
+    background-color: #307D7E;
+}
